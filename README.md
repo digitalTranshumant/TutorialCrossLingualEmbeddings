@@ -12,7 +12,7 @@ The session will be organized as follows:
 
 
 **First Part: Understanding and playing with cross-lingual word-embeddings** 
-* What is a word-embedding [slides](https://upload.wikimedia.org/wikipedia/commons/6/63/Tutorial_on_Multilingual_Word_Embeddings%2C_Wikimania_2019.pdf)
+* [What is a word-embedding](https://upload.wikimedia.org/wikipedia/commons/6/63/Tutorial_on_Multilingual_Word_Embeddings%2C_Wikimania_2019.pdf)
 * How to use [FastText](https://en.wikipedia.org/wiki/FastText) in Python.
 * How to align models in different languages. 
 
