@@ -9,12 +9,14 @@ In the [research team](https://research.wikimedia.org/) we have been using those
 
 The session will be organized as follows:
 
-**First Part: Understanding and playing with cross-lingual word-embeddings** [40 mins]
-* What is a word-embedding
+
+
+**First Part: Understanding and playing with cross-lingual word-embeddings** 
+* What is a word-embedding [slides](https://upload.wikimedia.org/wikipedia/commons/6/63/Tutorial_on_Multilingual_Word_Embeddings%2C_Wikimania_2019.pdf)
 * How to use [FastText](https://en.wikipedia.org/wiki/FastText) in Python.
 * How to align models in different languages. 
 
-**Second Part: Use cases on section alignment and recommendation ** [20 mins]
+**Second Part: Use cases on section alignment and recommendation ** 
 * How to query the [section alignment](https://meta.wikimedia.org/wiki/Research:Expanding_Wikipedia_articles_across_languages/Inter_language_approach#Section_Alignment) API.
 * How to query the [section recommendation](https://meta.wikimedia.org/wiki/Research:Expanding_Wikipedia_articles_across_languages/Inter_language_approach#Section_Recommendation) API.
 
